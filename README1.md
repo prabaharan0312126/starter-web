@@ -3,3 +3,5 @@
 #Added for for sample commit
 
 #added for staged
+
+#added for non staged
